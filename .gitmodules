@@ -10,3 +10,6 @@
 [submodule "tools/opensn0w"]
 	path = tools/opensn0w
 	url = https://github.com/argp/opensn0w.git
+[submodule "tools/xpwntool-lite"]
+	path = tools/xpwntool-lite
+	url = https://github.com/sektioneins/xpwntool-lite.git
