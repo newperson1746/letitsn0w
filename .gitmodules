@@ -1,0 +1,9 @@
+[submodule "tools/xpwn"]
+	path = tools/xpwn
+	url = https://github.com/planetbeing/xpwn.git
+[submodule "tools/darling-dmg"]
+	path = tools/darling-dmg
+	url = https://github.com/darlinghq/darling-dmg.git
+[submodule "tools/iBoot32Patcher"]
+	path = tools/iBoot32Patcher
+	url = https://github.com/iH8sn0w/iBoot32Patcher.git
